@@ -53,3 +53,7 @@ prefer composition over inheritance
 
 Inheritance should only be used for one level
 
+Function declaration = function sayHello(){} = these are hoisted functions = placed at top of js ode. You can call before defined
+
+Function expression = const sayHello = function(){} = this is not hoisted function = must define before you call
+
