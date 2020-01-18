@@ -17,3 +17,9 @@ reference types (objects) = Object, Function, Array. array and function are obje
 primatives are copied by their value
 
 objects are copied by their reference
+
+OOP Pillars:
+abstraction: hide the details/complexity of your class or object and only show what is neccessary using private.
+inheritance:
+polymorphism:
+encapsulation: 
