@@ -23,5 +23,11 @@ export function Circle(radius){
 }
 
 //return is not needed because we use new
-//const another = new Circle(1)
-//another.draw()
+const another = new Circle(1)
+another.draw()
+
+//run the factory function to compare
+let test = createCircle(2)
+test.draw()
+
+//all objects have construction which tells you what created the object

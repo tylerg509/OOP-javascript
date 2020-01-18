@@ -20,13 +20,13 @@ this.draw = function(){
 `)
 
 //these two are the same
-//console.log(new Circle4(1))
-//console.log(new Circle5(1))
+console.log(new Circle4(1))
+console.log(new Circle5(1))
 
 //these are the same as well. When new is called it is actually running
 //a function on the object (object.call)
 
 //empty passes the global object( window ) to function
-//Circle4.call({},1)
+Circle4.call({},1)
 //pass array as second argument to array
-//Circle4.apply({},[1,2,3])
+Circle4.apply({},[1,2,3])

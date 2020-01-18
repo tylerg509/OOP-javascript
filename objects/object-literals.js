@@ -1,6 +1,6 @@
 
 // {} = object literal
-export const circle = {
+const circle = {
         radius: 1,
         location: {
             x: 1,
@@ -13,5 +13,5 @@ export const circle = {
     
 
 
-
+circle.draw()
 
