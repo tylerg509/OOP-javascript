@@ -1,3 +1,4 @@
-import {circle} from './objects/object-literals.js'
+import {createCircle} from './objects/factories.js'
 
+const circle=createCircle(1);
 circle.draw()
