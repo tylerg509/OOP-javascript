@@ -8,6 +8,8 @@
 
 .hello{
     color: green;
+    padding-top: 20vh;
+    padding-bottom: 10vh;
 
 
 }
@@ -16,12 +18,14 @@
     transform: rotate(360deg);
     text-shadow: 5rem 10rem 20rem rgba(black, .2);
     transition-duration: 1s;
-
+    padding-top: 20vh;
+    padding-bottom: 20vh;
 }
+
+
 
 .coool{
     color: lime;
-    padding-top: 5vh;
     text-shadow: 5rem 10rem 20rem rgba(black, .2);
     font-size: x-large;    
 
@@ -46,5 +50,5 @@
 
 
 .centering{
-    padding-top: 40vh;
+    padding-top: 20vh;
 }
