@@ -10,7 +10,8 @@ Shape.prototype.duplicate = function(){
 
 //we initialize the shape here
 function Circle(radius, color){
-    //this is how to call the super consstructor
+    //this is how to call the super constructor !!!!!!!!
+    //after calling you can access color on the circle object
     Shape.call(this, color)
 
     this.radius = radius;
