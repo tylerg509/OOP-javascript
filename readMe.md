@@ -8,9 +8,11 @@ new Boolean() = true,false
 2) in javascript everything is an object. A function is an object
 
 
-value types = Number, String, Boolean, Symbol es6, undefined, null
+value types(primative types) = Number, String, Boolean, Symbol es6, undefined, null
+//copied by value = see value-reference-types ex
 
-reference types = Object, Function, Array. array and function are objects
+reference types (objects) = Object, Function, Array. array and function are objects
+//copied by reference = see value-reference-types
 
 primatives are copied by their value
 
