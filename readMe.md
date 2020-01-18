@@ -21,9 +21,9 @@ objects are copied by their reference
 !----------------------!
 OOP Pillars:
 abstraction: hide the details/complexity of your class or object and only show what is neccessary using private.
-inheritance:
-polymorphism:
-encapsulation: 
+inheritance: reuse code in a child class or object from a parent/prototype class/object
+polymorphism: many forms
+encapsulation: code should be contained within classes. as few params should be used as possible. encapsulate code into objects. 
 !------------------------!
 
 --INHERITANCE--
