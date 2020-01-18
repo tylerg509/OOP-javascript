@@ -45,3 +45,6 @@ Every object has constructor which was used to create the object
 Object base is the root of all javascript objects and has no prototypes
 
 Prototypal inheritance = when we access a property or method on an object javascript first looks at the object itself and if it can not be found it looks to the objects prototype up until it reaches the base object (which does not have a prototype)
+
+
+objects created by a given constructor will have the same prototype
