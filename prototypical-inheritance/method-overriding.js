@@ -1,5 +1,5 @@
 
-
+//overriding == implementing a method in a child object
 
 //create a reusable inheritance function == intermediate function inheritance
 function extend(Child, Parent){
