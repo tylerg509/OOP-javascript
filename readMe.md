@@ -48,3 +48,8 @@ Prototypal inheritance = when we access a property or method on an object javasc
 
 
 objects created by a given constructor will have the same prototype
+
+prefer composition over inheritance
+
+Inheritance should only be used for one level
+
