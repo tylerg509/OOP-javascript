@@ -20,6 +20,7 @@ function Circle2(radius){
     //instance memebers
     this.radius = radius;
     this.move = function(){
+        //access prototype member
         this.draw()
         console.log('move')
     }
