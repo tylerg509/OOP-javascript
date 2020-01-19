@@ -1,6 +1,7 @@
 
 //abstraction = use private whenever possible 
 //we use symbols to implement private properties 
+//symbol is es6
 const _radius = Symbol(); //symbol is a unique id 
 const _draw = Symbol();
 class Circle {
